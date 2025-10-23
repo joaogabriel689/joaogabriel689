@@ -29,17 +29,15 @@ Aqui você encontrará meus projetos, experimentações e aprendizados contínuo
 ### 1. calculadora
 -inicio dos estudos com JS
 -pequeno projeto front-end
-### 2. Projetos Acadêmicos em Python e JavaScript
-- Aplicação de **POO e algoritmos**  
-- Integração com banco de dados  
-- [Repositório de exemplos](#)
+-github.com/joaogarbriel689/calculadora
+
 
 
 ---
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/joao-couto-b55b04321 
-- GitHub: github.io/joaogabriel689 
+- GitHub: github.com/joaogabriel689 
 - Email: joaocouto114@gmail.com 
 
 ---
