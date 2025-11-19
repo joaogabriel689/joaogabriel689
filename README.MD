@@ -26,11 +26,19 @@ Aqui você encontrará meus projetos, experimentações e aprendizados contínuo
 ---
 
 ## 📂 Projetos em Destaque
-### 1. calculadora
+### 1. calculadorara
 -inicio dos estudos com JS
+
 -pequeno projeto front-end
+
 -github.com/joaogarbriel689/calculadora
 
+### 2. ecommerce bilioteca
+-projeto usandodo php puro
+
+-back end simples
+
+-github.com/joaogabriel689/ecommerce-bilbioteca
 
 
 ---
