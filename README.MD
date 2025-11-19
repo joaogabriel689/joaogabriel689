@@ -26,7 +26,7 @@ Aqui você encontrará meus projetos, experimentações e aprendizados contínuo
 ---
 
 ## 📂 Projetos em Destaque
-### 1. calculadorara
+### 1. calculadora
 -inicio dos estudos com JS
 
 -pequeno projeto front-end
